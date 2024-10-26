@@ -19,6 +19,14 @@
     {
       "name": "Discord-Token-Onliner",
       "description": "Keeps tokens online in Discord."
+    },
+    {
+      "name": "Discord-Server-ID-Fetcher",
+      "description": "Allows you to get the server IDs of your tokens and save them."
+    },
+    {
+      "name": "Discord-Status-Rotator",
+      "description": "Change your discord status and presence every x seconds using discord api."
     }
   ],
   "links": {
