@@ -13,7 +13,7 @@
       "description": "Scrapes profile information from Discord servers."
     },
     {
-      "name": "DiscordVanityChecker",
+      "name": "Discord-Vanity-Checker",
       "description": "Checks for available Discord vanity URLs."
     },
     {
