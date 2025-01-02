@@ -43,7 +43,7 @@
   </a>
 </p>
 
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
   <a href="http://www.github.com/raz461">
     <img src="https://github-readme-stats.vercel.app/api?username=raz461&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="raz461's GitHub stats" style="height: 110px;" />
   </a>
